@@ -59,9 +59,13 @@
     "66b219281a2a002f9272a3803d54a0cb": {
       "source_url": "https://docs.anthropic.com/en/docs/claude-code/overview",
       "fetched_at": "2026-07-29T02:35:35.559912+00:00"
+    },
+    "325f9a73a844f61246b5a555e021a794": {
+      "source_url": "https://docs.anthropic.com/en/docs/claude-code/overview",
+      "fetched_at": "2026-08-08T01:37:01.260364+00:00"
     }
   },
   "last_github_sha": {
-    "claude-code-docs": "7ef6eec9d9ba84ea6f233f26c45f1df5c5991843"
+    "claude-code-docs": "53f9910f6ef015ddda6a4b5fceab5dd745af7f4c"
   }
 }
